@@ -2,6 +2,17 @@
 
 **Compares two YAML files and outputs the differences between them.**
 
+```
+'##:::'##::::'###::::'##::::'##:'##:::::::'########::'####:'########:'########:
+. ##:'##::::'## ##::: ###::'###: ##::::::: ##.... ##:. ##:: ##.....:: ##.....::
+:. ####::::'##:. ##:: ####'####: ##::::::: ##:::: ##:: ##:: ##::::::: ##:::::::
+::. ##::::'##:::. ##: ## ### ##: ##::::::: ##:::: ##:: ##:: ######::: ######:::
+::: ##:::: #########: ##. #: ##: ##::::::: ##:::: ##:: ##:: ##...:::: ##...::::
+::: ##:::: ##.... ##: ##:.:: ##: ##::::::: ##:::: ##:: ##:: ##::::::: ##:::::::
+::: ##:::: ##:::: ##: ##:::: ##: ########: ########::'####: ##::::::: ##:::::::
+:::..:::::..:::::..::..:::::..::........::........:::....::..::::::::..::::::::
+```
+
 The `yamldiff` script is a simple command-line tool that allows you to compare two YAML files and see the differences between them. YAML is a popular data serialization format that is used for configuration files, data exchange, and other purposes. When trying to debug a problem with a configuration file or when you want to see how a YAML file has changed over time, 'yamldiff' can be quite useful.
 
 The `yamldiff` script is easy to use. You simply run the script with the names of the two YAML files that you want to compare. The script will then show you the differences between the two files, highlighting the changes in color. This makes it easy to see what has changed between the two files and to quickly identify any issues that may be causing problems.
